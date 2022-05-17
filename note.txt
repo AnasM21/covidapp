@@ -1,0 +1,5 @@
+Success! Use this token to login on a CI server:
+
+1//03NFXbSUmB6IgCgYIARAAGAMSNwF-L9IrKnAr1Sthqb8F0p51PYFPyHS2BJwmFqs7o3J-iKH5C0ToMKYfdG6WFCYbLlussAEBWBs
+
+Example: firebase deploy --token "$FIREBASE_TOKEN"

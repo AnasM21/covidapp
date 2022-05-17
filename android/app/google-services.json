@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024260716832",
+    "project_id": "yoru-app",
+    "storage_bucket": "yoru-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024260716832:android:d4ee8fb2b4355705b33f45",
+        "android_client_info": {
+          "package_name": "com.example.covidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024260716832-krr5g383ij4oevv3pd39pm94tnogkq10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRqKiqqva99pChJSZt5C5-FOAjRaQ4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024260716832-krr5g383ij4oevv3pd39pm94tnogkq10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
